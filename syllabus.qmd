@@ -42,7 +42,7 @@ library(ggplot2)
 library(dplyr)
 # Variables
 
-Percentage = c(.6, .3, .05, .05)
+Percentage = c(.6, .3, .07, .03)
 Grades = c('Midterm Exams', 'Final Exam', 'Homework','Attendance')
 label2 = paste0(Grades, " ", Percentage*100, "%")
 
@@ -58,13 +58,14 @@ ggplot(df, aes(x = "", y = Percentage, fill = Grades)) +
   theme_void()
 ```
 
--   *Final Exam*: The final exam is comprehensive covering all the topics of the course. Formula sheets are allowed. Calculators with only basic calculations are allowed.
+-   *Final Exam*: The final exam is comprehensive covering all the topics of the course.  The problems in the exam will be similar to those in the homework assignments. A formula sheet (1 page) is allowed. Calculators with only basic calculations are allowed.
 
--   *Midterm Exams*: Tentatively, there are three Midterm exams, and each is worth 20% or 100 points. Formula sheets are allowed. Makeup exam will only be given to students who provide a valid written excuse BEFORE the date of the exam. The approved makeup exam should be taken no later than a week after the actual one. The grades posted on Blackboard are official, and permanent after a week they are posted.
+-   *Midterm Exams*: Tentatively, there are three Midterm exams, and each is worth 20%. A formula sheet (1 page) is allowed. Makeup exam will only be given to students who provide a valid written excuse BEFORE the date of the exam. The approved makeup exam should be taken no later than a week after the actual one. The grades posted on Canvas are official, and permanent after a week they are posted. The problems in the exams will be similar to those in the homework assignments.
 
--   *Homework*: The homework will be 
+-   *Homework*: The homework assignment will be collected weekly through Canvas. You can type or hand-write and scan the homework then upload them to Canvas for grading. Completing all the problems of the homework will guarantee you at least 50% of the grades.
 
--   *Attendance*: Attendance will be checked 
+-   *Attendance*: Attendance will be checked regularly in class. The grade for attendance (3%) is usually enough to move up a letter grade. You are responsible for obtaining course material missed during an absence.
+
 
 ## Grades Scale
 
@@ -99,6 +100,31 @@ p
 
 ```
 
+## Tentative Topics
+
+- Chapter 1: Limits and continuity
+- Chapter 2: The derivative
+- Chapter 3: The derivative in graphing and application
+- Chapter 4: Integration
+- Chapter 5: Application of the definite Integral 
+
+## Sustainable Development Goals
+
+We will occasionally discuss and work with data related to the United Nation Sustainable Development Goals. These goals are called by the UN for action in a global partnership to provide peace and prosperity for people and the planet, now and into the future. Specifically, we will focus one of the following six SDGs:
+
+  - [SDG 3](https://www.globalgoals.org/goals/3-good-health-and-well-being/): Good Health & wellbeing	
+  - [SDG 4](https://www.globalgoals.org/goals/4-quality-education/): Quality Education	
+  - [SDG 8](https://www.globalgoals.org/goals/8-decent-work-and-economic-growth/): Decent Work and Economic Growth
+  - [SDG 7](https://www.globalgoals.org/goals/7-affordable-and-clean-energy/): Affordable and Clean Energy	
+  - [SDG 9](https://www.globalgoals.org/goals/9-industry-innovation-and-infrastructure/): Industry, Innovation, and Infrastructure	
+  - [SDG 11](https://www.globalgoals.org/goals/11-sustainable-cities-and-communities/): Sustainable Cities and Communities
+
+
+
+You can learn more about the Sustainable Development Goals at: https://sdgs.un.org/goals
+
+[Sustainable Development Goals](https://sdgs.un.org/goals)
+
 
 ## Academic Misconduct
 
@@ -108,11 +134,4 @@ Cheating will result in an F as your final grade and may result in your expulsio
 
 In this course, and all your courses at Bryant, and throughout the Bryant learning community, we value and respect diversity. This includes differences in race, ethnicity, nationality, gender, gender identity, sexuality, socioeconomic status, ability, and religion.
 
-## Tentative Topics
-
-- Chapter 1: Limits and continuity
-- Chapter 2: The derivative
-- Chapter 3: The derivative in graphing and application
-- Chapter 4: Integration
-- Chapter 5: Application of the definite Integral 
 

@@ -1,6 +1,6 @@
 # Math 121. Calculus and Analytic Geometry I 
 
-[Syllabus](m421syllabus.html) 
+[Syllabus](syllabus.html) 
 
 | Date        | Section/Topic                  | Notes    |Homework     |
 |:------------|:------------|:------------|:-------------------------------------|
