@@ -1,0 +1,118 @@
+---
+title: "MATH 121: Calculus and Analytic Geometry I"
+format: 
+  html:                     
+    toc: true
+editor: visual
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+## Course Description
+
+This is the first course for Actuarial Mathematics, Applied Math and Statistics, Applied Economics, Biology and Environmental Science majors, and those concentrating in Applied Statistics. The course is also recommended for the math minors. Topics include limits, continuity, derivatives, and integrals, along with their application to the Mean Value Theorem, curve sketching and optimization, the calculus of transcendental functions, and area between curves.
+
+## Office Hours 
+
+## Textbook
+
+Calculus, 10th Edition by Howard Anton, Irl C. Bivens, Stephen Davis, Wiley& Sons, Inc. ©2012, ISBN: 978-0-470-64772-1
+
+## Course Objectives
+
+The primary goals of this course are to provide the student with the capabilities to understand problems in differential and integral calculus and apply the appropriate methods to solve them. After taking this course, the student should be able to
+
+-   explain the concept of limits, average rate of changes,derivatives and differentiation
+
+-   calculate basic limits, derivatives and differentiation using appropriate rules
+
+-   graph functions using first and second derivatives
+
+-   formulate and solve certain types of optimization problems
+
+-   explain and calculate definite integrals of a variety of functions
+
+## Grades
+
+```{r}
+# install.packages("ggplot2")
+library(ggplot2)
+library(dplyr)
+# Variables
+
+Percentage = c(.6, .3, .05, .05)
+Grades = c('Midterm Exams', 'Final Exam', 'Homework','Attendance')
+label2 = paste0(Grades, " ", Percentage*100, "%")
+
+df = data.frame(Grades = Grades, Percentage = Percentage, labels = label2)
+
+ggplot(df, aes(x = "", y = Percentage, fill = Grades)) +
+  geom_col() +
+  geom_label(aes(label = labels),
+             position = position_stack(vjust = 0.5),
+             show.legend = FALSE) +
+  labs(x='')+
+  coord_polar(theta = "y")+
+  theme_void()
+```
+
+-   *Final Exam*: The final exam is comprehensive covering all the topics of the course. Formula sheets are allowed. Calculators with only basic calculations are allowed.
+
+-   *Midterm Exams*: Tentatively, there are three Midterm exams, and each is worth 20% or 100 points. Formula sheets are allowed. Makeup exam will only be given to students who provide a valid written excuse BEFORE the date of the exam. The approved makeup exam should be taken no later than a week after the actual one. The grades posted on Blackboard are official, and permanent after a week they are posted.
+
+-   *Homework*: The homework will be 
+
+-   *Attendance*: Attendance will be checked 
+
+## Grades Scale
+
+The numerical grades are converted to letter grades as follows.
+
+|     |                |     |                |
+|-----|----------------|-----|----------------|
+| A   | 92.45 - 100%   | C   | 72.45 - 76.44% |
+| A-  | 89.45 - 92.44% | C-  | 69.45 - 72.44% |
+| B+  | 86.45 - 89.44% | D+  | 66.45 - 69.44% |
+| B   | 82.45 - 86.44% | D   | 59.45 - 66.44% |
+| B-  | 79.45 - 82.44% | F   | Below 59.44%   |
+| C+  | 76.45 - 79.44% |     |                |
+
+```{r}
+library(ggplot2)
+library(forcats)
+
+# Basic barplot
+
+Grades           = c("A","A-","B+","B","B-","C+","C","C-","D+","D", "F")
+Total_Percentage = c(92.45, 89.45, 86.45, 82.45 ,79.45, 76.45, 72.45, 69.45, 66.45, 59.45, 0)
+df = data.frame(Grades = Grades, Total_Percentage = Total_Percentage)
+
+
+p<-ggplot(data=df, aes(x= fct_rev(fct_reorder(Grades, Total_Percentage)), y=Total_Percentage)) +
+  geom_col(fill="steelblue")+
+  labs(y = 'Total Percentage', x ='Letter Grade')+
+  geom_text(aes(label = Total_Percentage), vjust = -0.5)+
+  theme_minimal()
+p
+
+```
+
+
+## Academic Misconduct
+
+Cheating will result in an F as your final grade and may result in your expulsion from the University. All cheating will be reported to the Chair of the Mathematics Department and Academic Advising.
+
+## Regarding Diversity
+
+In this course, and all your courses at Bryant, and throughout the Bryant learning community, we value and respect diversity. This includes differences in race, ethnicity, nationality, gender, gender identity, sexuality, socioeconomic status, ability, and religion.
+
+## Tentative Topics
+
+- Chapter 1: Limits and continuity
+- Chapter 2: The derivative
+- Chapter 3: The derivative in graphing and application
+- Chapter 4: Integration
+- Chapter 5: Application of the definite Integral 
+
