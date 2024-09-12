@@ -1,6 +1,6 @@
 # Math 121. Calculus and Analytic Geometry I 
 
-[Syllabus](syllabus.html) 
+[Syllabus](syllabus.html), 
 
 | Date        | Section/Topic                  | Notes    |Homework     |
 |:------------|:------------|:------------|:-------------------------------------|
@@ -11,3 +11,8 @@
 | 10/9         |   Section 1.3.   Limits at Infinity                    | [Note](notes/10_9.pdf)           |HW2: Section 1.3: 9, 10, 14, 16, 18, 19, 21 |
 | 12/9         |                       | [Note](notes/12_9.pdf)           |HW3: Section 1.4: 11, 13, 15, 17, 29, 30| 
  
+ 
+ 
+### Homework
+ 
+ - [Chapter 1](hw/chap1.docx)
