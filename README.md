@@ -1,6 +1,6 @@
 # Math 121. Calculus and Analytic Geometry I 
 
-[Syllabus](syllabus.html), 
+[Syllabus](syllabus.html)
 
 | Date        | Section/Topic                  | Notes    |Homework     |
 |:------------|:------------|:------------|:-------------------------------------|
@@ -13,6 +13,6 @@
  
  
  
-### Homework
+#### Homework
  
  - [Chapter 1](hw/chap1.docx)
