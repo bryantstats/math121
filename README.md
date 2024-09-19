@@ -12,6 +12,7 @@
 | 9/12         |   Section 1.5. Continuity                    | [Note](notes/note9_12.pdf)           |HW3: Section 1.5: 11, 13, 15, 17, 29, 30| 
  | **Week 3**  |                                |    |                    |
 | 9/17         |   Section 1.5.   Continuity                    | [Note](notes/9_17.pdf)            |
+| 9/19         |   Section 1.5.   Continuity                    | [Note](notes/9_19.pdf)            |
  
  
 #### Homework
