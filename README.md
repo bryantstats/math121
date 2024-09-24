@@ -10,10 +10,12 @@
 | **Week 2**  |                                |    |                    |
 | 9/10         |   Section 1.3.   Limits at Infinity                    | [Note](notes/10_9.pdf)           |HW2: Section 1.3: 9, 10, 14, 16, 18, 19, 21 |
 | 9/12         |   Section 1.5. Continuity                    | [Note](notes/note9_12.pdf)           |HW3: Section 1.5: 11, 13, 15, 17, 29, 30| 
- | **Week 3**  |                                |    |                    |
+| **Week 3**  |                                |    |                    |
 | 9/17         |   Section 1.5.   Continuity                    | [Note](notes/9_17.pdf)            |
 | 9/19         |   Section 1.5.   Continuity                    | [Note](notes/9_19.pdf)            |
- 
+| **Week 4**  |                                |    |                    |
+| 9/24         |   Section 1.5 and 1.6                       | [Note](notes/9_24.pdf)            |
+
  
 #### Homework
  
