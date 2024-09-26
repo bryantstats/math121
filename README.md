@@ -15,7 +15,13 @@
 | 9/19         |   Section 1.5.   Continuity                    | [Note](notes/9_19.pdf)            |
 | **Week 4**  |                                |    |                    |
 | 9/24         |   Section 1.5 and 1.6                       | [Note](notes/9_24.pdf)            |
-
+| 9/26         |   Section 2.2.                       | [Note](notes/9_26.pdf)            |
+| **Week 5**  |                                |    |                    |
+| 10/1         |                          | [Note]()            |
+| 10/3         |                          | [Note]()            |
+| **Week 6**  |                                |    |                    |
+| 10/8         |   Exam 1                       | [Note]()            |
+| 10/10         |                          | [Note]()            |
  
 #### Homework
  
