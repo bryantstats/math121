@@ -4,7 +4,7 @@ format: pdf
 editor: visual
 ---
 
-*This practice exam will be updated.  There may be more problems added to the practice exam.*
+*This practice exam will be updated.  There may be more problems added to the practice exam. The solution will be posted.*
 
 ## Problem 1.
 
