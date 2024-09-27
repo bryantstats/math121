@@ -1,0 +1,120 @@
+---
+title: "Exam 1 - Practice 1"
+format: pdf
+editor: visual
+---
+
+*This practice exam will be updated.  There may be more problems added to the practice exam.*
+
+## Problem 1.
+
+Find the following limits.
+
+a.  
+
+$$\lim_{x \to 1} \frac{x^2 +4x + 3}{x^2 +5x + 6}$$
+
+\
+
+b.  
+
+$$\lim_{x \to -1} \frac{x^2 +4x + 3}{x^2 +5x + 6}$$
+
+\
+
+
+c.  
+
+$$\lim_{x \to \infty} \frac{2x^2 +4x + 3}{3x^2 +5x + 6}$$
+
+\
+
+
+d.  
+
+$$\lim_{x \to \infty} \frac{2x^2 +4x + 3}{3x^3 +5x + 6}$$
+
+\
+
+
+e.  
+
+$$\lim_{x \to \infty} \frac{2x^5 +4x + 3}{3x^3 +5x + 6}$$
+
+\
+
+
+f.  
+
+$$\lim_{x \to 1} \frac{\sin 3x }{\sin 5x}$$
+
+\
+
+
+g.  
+
+$$\lim_{x \to 0} \frac{\sin 3x }{\sin 5x}$$
+
+\
+
+
+h.  
+
+$$\lim_{x \to 0} \frac{x^2 + \sin 3x }{x + \sin 5x}$$
+
+\
+
+
+
+## Problem 2
+
+Find values of $x$, if any, at which the function is not continuous.
+
+a.  $f(x) = x^2 + \frac{x}{3} + 2024$
+
+\
+
+b.  $f(x) = x^2 + \frac{3}{x - 1} + 2024$
+
+\
+
+c.  $f(x) = \frac{3}{2x + 5} + \frac{x-1}{x^2 - 5x + 6}$
+
+\
+
+## Problem 3.
+
+Find a value of the constant $k$, if possible, that will make the function continuous everywhere. 
+
+a.
+\begin{align*}
+f(x) =
+ \left\{\begin{array}{lr}
+     x-2, & x \le 2 \\
+     kx^2 + k, & x > 2  
+  \end{array}\right.
+\end{align*}
+
+
+b.
+\begin{align*}
+f(x) =
+ \left\{\begin{array}{lr}
+     x^2 + x + 4, & x \le 0 \\
+    - 9x + k^2, & x > 0
+  \end{array}\right.
+\end{align*}
+
+## Problem 4.
+
+a. Use the definition of derivatives to find $f'(x)$, and then find the tangent line to the graph of $y = f(x)$ at $x = 1$
+
+$$
+f(x) = 2x^2 -3x +4
+$$
+
+b. Use the definition of derivatives to find $f'(x)$, and then find the tangent line to the graph of $y = f(x)$ at $x = 0$
+
+$$
+f(x) = \frac{1}{x+1}
+$$

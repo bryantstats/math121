@@ -17,12 +17,12 @@
 | 9/24         |   Section 1.5 and 1.6                       | [Note](notes/9_24.pdf)            |
 | 9/26         |   Section 2.2.                       | [Note](notes/9_26.pdf)            |
 | **Week 5**  |                                |    |                    |
-| 10/1         |                          | [Note]()            |
-| 10/3         |                          | [Note]()            |
+| 10/1         |                          |             |
+| 10/3         |                          |             |
 | **Week 6**  |                                |    |                    |
-| 10/8         |   Exam 1                       | [Note]()            |
-| 10/10         |                          | [Note]()            |
+| 10/8         |   Exam 1                       | [Practice 1](exam1/practice_exam_1_1.pdf)            |
+| 10/10         |                          |          |
  
 #### Homework
  
- - [Chapter 1](hw/chap1.docx)
+ - [Download](hw/hw.docx)
