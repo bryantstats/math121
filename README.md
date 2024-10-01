@@ -17,7 +17,7 @@
 | 9/24         |   Section 1.5 and 1.6                       | [Note](notes/9_24.pdf)            ||
 | 9/26         |   Section 2.2.                       | [Note](notes/9_26.pdf)            |HW4: Section 1.6 and 2.2|
 | **Week 5**  |                                |    |                    |
-| 10/1         |                          |             |
+| 10/1         |                          |  [Note](notes/10_1.pdf)           |
 | 10/3         |                          |             |
 | **Week 6**  |                                |    |                    |
 | 10/8         |   Exam 1                       | [Practice 1](exam1/practice_exam_1_1.pdf)            |
