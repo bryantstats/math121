@@ -27,4 +27,4 @@
 
 The homework problems can be found at the below link. 
  
- - [Download](hw/hw.docx)
+ - [Download](hw/hw.pdf)
