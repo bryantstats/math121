@@ -20,7 +20,7 @@
 | 10/1         |                          |  [Note](notes/10_1.pdf)           |
 | 10/3         |                          |             |
 | **Week 6**  |                                |    |                    |
-| 10/8         |   Exam 1                       | [Practice 1](exam1/practice_exam_1_1.pdf)            |
+| 10/8         |   Exam 1                       | [Practice 1](exam1/practice_exam_1_1.pdf), [Solution](exam1/practice_exam_1_1_sol.pdf)            |
 | 10/10         |                          |          |
  
 #### Homework
