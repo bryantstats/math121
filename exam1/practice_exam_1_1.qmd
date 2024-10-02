@@ -29,16 +29,12 @@ $$
 
 Find the following limits.
 
-a.  
-
 $$\lim_{x \to 1} \frac{x^2 +4x + 3}{x^2 +5x + 4}$$
 
 \
 \
 \
 \
-
-b.  
 
 $$\lim_{x \to -1} \frac{x^2 +4x + 3}{x^2 +5x + 4}$$
 
@@ -49,7 +45,14 @@ $$\lim_{x \to -1} \frac{x^2 +4x + 3}{x^2 +5x + 4}$$
 \
 
 
-c.  
+$$\lim_{x \to 1} \frac{2x^2 +4x + 3}{3x^2 +5x + 6}$$
+
+\
+\
+\
+\
+\
+
 
 $$\lim_{x \to \infty} \frac{2x^2 +4x + 3}{3x^2 +5x + 6}$$
 
@@ -60,7 +63,7 @@ $$\lim_{x \to \infty} \frac{2x^2 +4x + 3}{3x^2 +5x + 6}$$
 \
 
 
-d.  
+
 
 $$\lim_{x \to \infty} \frac{2x^2 +4x + 3}{3x^3 +5x + 6}$$
 
@@ -71,8 +74,6 @@ $$\lim_{x \to \infty} \frac{2x^2 +4x + 3}{3x^3 +5x + 6}$$
 \
 
 
-e.  
-
 $$\lim_{x \to \infty} \frac{2x^5 +4x + 3}{3x^3 +5x + 6}$$
 
 \
@@ -81,8 +82,6 @@ $$\lim_{x \to \infty} \frac{2x^5 +4x + 3}{3x^3 +5x + 6}$$
 \
 \
 
-
-f.  
 
 $$\lim_{x \to 1} \frac{\sin 3x }{\sin 5x}$$
 
@@ -93,8 +92,6 @@ $$\lim_{x \to 1} \frac{\sin 3x }{\sin 5x}$$
 \
 
 
-g.  
-
 $$\lim_{x \to 0} \frac{\sin 3x }{\sin 5x}$$
 
 \
@@ -103,8 +100,6 @@ $$\lim_{x \to 0} \frac{\sin 3x }{\sin 5x}$$
 \
 \
 
-
-h.  
 
 $$\lim_{x \to 0} \frac{x^2 + \sin 3x }{x + \sin 5x}$$
 
