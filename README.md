@@ -18,9 +18,9 @@
 | 9/26         |   Section 2.2.                       | [Note](notes/9_26.pdf)            |HW4: Section 1.6 and 2.2|
 | **Week 5**  |                                |    |                    |
 | 10/1         |                          |  [Note](notes/10_1.pdf)           |
-| 10/3         |                          |             |
+| 10/3         |  Exam 1's Review                        |    [Practice 1](exam1/practice_exam_1_1.pdf), [Solution](exam1/practice_exam_1_1_sol.pdf)  <br> [Practice 2](exam1/practice_exam_1_2.pdf)                  | |
 | **Week 6**  |                                |    |                    |
-| 10/8         |   Exam 1                       | [Practice 1](exam1/practice_exam_1_1.pdf), [Solution](exam1/practice_exam_1_1_sol.pdf)            |
+| 10/8         |   Exam 1                       | |
 | 10/10         |                          |          |
  
 #### Homework
