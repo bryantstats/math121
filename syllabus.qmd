@@ -64,7 +64,7 @@ ggplot(df, aes(x = "", y = Percentage, fill = Grades)) +
 
 -   *Final Exam*: The final exam is comprehensive covering all the topics of the course. The problems in the exam will be similar to those in the homework assignments. A formula sheet (1 page) is allowed. Calculators with only basic calculations are allowed.
 
--   *Midterm Exams*: Tentatively, there are three Midterm exams, and each is worth 20%. A formula sheet (1 page) is allowed. Makeup exam will only be given to students who provide a valid written excuse BEFORE the date of the exam. The approved makeup exam should be taken no later than a week after the actual one. The grades posted on Canvas are official, and permanent after a week they are posted. The problems in the exams will be similar to those in the homework assignments.
+-   *Midterm Exams*: Tentatively, there are three Midterm exams, and each is worth 20%. A formula sheet (1 page) is allowed or included in the exam. Makeup exam will only be given to students who provide a valid written excuse BEFORE the date of the exam. The approved makeup exam should be taken no later than a week after the actual one. The grades posted on Canvas are official, and permanent after a week they are posted. The problems in the exams will be similar to those in the homework assignments.
 
 -   *Homework*: The homework assignment will be collected weekly through Canvas. You can type or hand-write and scan the homework then upload them to Canvas for grading. Completing all the problems of the homework will guarantee you at least 50% of the grades.
 
