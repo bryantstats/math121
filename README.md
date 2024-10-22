@@ -25,6 +25,10 @@
 | **Week 7**  |                                |    |                    |
 | 10/15         |   Section 2.3                       | [Note](notes/10_15.pdf)  |
 | 10/17         |   Section 2.4 & 2.5                      |  [Note](notes/10_17.pdf)        |
+| **Week 8**  |                                |    |                    |
+| 10/22         |   Section 2.5 & 2.6                       | [Note](notes/10_22.pdf)  |
+| 10/24         |                         |          |
+
  
 #### Homework
 
