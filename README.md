@@ -30,7 +30,7 @@
 | 10/24         |   Section 2.6                      |   [Note](notes/10_24.pdf)       |
 | **Week 9**  |                                |    |                    |
 | 10/29         |     Section 6.1 & 6.2                     | [Note](notes/10_29.pdf)  |
-| 10/31         |   Section 2.6                      |   [Note](notes/10_31.pdf)       |
+| 10/31         |   Section 2.7                      |   [Note](notes/10_31.pdf)       |
 
  
 #### Homework
