@@ -29,7 +29,7 @@ $$f(x) = (\sqrt{x}+1)(x+1)$$
 \
 \
 
- $$f(x) = \frac{x-1}{x+1} \text{   (Simplify your answers.)}$$ 
+$$f(x) = \frac{x-1}{x+1} \text{   (Simplify your answers.)}$$
 
 \
 \
@@ -45,8 +45,7 @@ $$f(x) = x\sin x$$
 \
 \
 
-$$f(x) = \frac{x}{\tan x}$$
-\
+$$f(x) = \frac{x}{\tan x}$$\
 \
 \
 \
@@ -92,6 +91,33 @@ $$f(x) = 2024^x + 7^x - 2\log_{9}x + 3\ln x - \frac{3\log_2 x}{5} + \frac{\log_7
 \
 \
 
+
+$$f(x) = \log_7\bigg(\sqrt{x}+x^2+x+1\bigg)$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = e^{\sin x + \tan x + 2x^3}$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = e^{x\sin x}$$
+
+\
+\
+\
+\
+\
+
+
+
 ### Problem 2
 
 $$
@@ -111,8 +137,7 @@ $$
 \
 \
 
-(b) Solve the equation for y as a function of x, and find $dy/dx$
-from that equation.
+(b) Solve the equation for y as a function of x, and find $dy/dx$ from that equation.
 
 \
 \
@@ -127,37 +152,30 @@ from that equation.
 
 ### Problem 3
 
-Given the equation 
+Given the equation
 
 $$
 x^3 + y^3 = 3xy
 $$
 
-1. Use implicit differentiation to find $dy/dx$ or $y'$
-\
-\
-\
-\
-\
+1.  Use implicit differentiation to find $dy/dx$ or $y'$\
+    \
+    \
+    \
+    \
 
-2.  Find an equation for the tangent line at the point (3/2, 3/2)
-\
-\
-\
-\
-\
-
-
+2.  Find an equation for the tangent line at the point (3/2, 3/2)\
+    \
+    \
+    \
+    \
 
 ### Problem 4
 
-(a) Find the local linear approximation of $f(x) = \sqrt{x}$ at $x_0 = 1$
-\
-\
-\
-\
-\
-
-
+(a) Find the local linear approximation of $f(x) = \sqrt{x}$ at $x_0 = 1$\
+    \
+    \
+    \
+    \
 
 (b) Use the local linear approximation obtained in part (a) to approximate $\sqrt{1.1}$
