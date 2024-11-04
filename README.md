@@ -24,13 +24,19 @@
 | 10/10         |                          |          |
 | **Week 7**  |                                |    |                    |
 | 10/15         |   Section 2.3                       | [Note](notes/10_15.pdf)  |
-| 10/17         |   Section 2.4 & 2.5                      |  [Note](notes/10_17.pdf)        |
+| 10/17         |   Section 2.4 & 2.5                      |  [Note](notes/10_17.pdf)  |
 | **Week 8**  |                                |    |                    |
 | 10/22         |   Section 2.5 & 2.6                       | [Note](notes/10_22.pdf)  |
 | 10/24         |   Section 2.6                      |   [Note](notes/10_24.pdf)       |
 | **Week 9**  |                                |    |                    |
 | 10/29         |     Section 6.1 & 6.2                     | [Note](notes/10_29.pdf)  |
 | 10/31         |   Section 2.7                      |   [Note](notes/10_31.pdf)       |
+| **Week 10**  |                                |    |                    |
+| 11/05         |   Section 2.7 & 2.8        |    |HW5  |
+| 10/07         |   Review for Exam 2                       |  [Exam 2's Practice](exam2/practice_exam_2_1.pdf)       |
+| **Week 11**  |                                |    |                    |
+| 11/12         |     Exam 2                   |  |
+| 11/14         |                      |          |
 
  
 #### Homework

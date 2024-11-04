@@ -1,0 +1,163 @@
+---
+title: "Exam 2 - Practice 1"
+format: pdf
+editor: visual
+---
+
+*Notice:*
+
+-   *Calculators are not allowed.*
+-   *Exam 2 is scheduled for Tuesday, Nov 12.*
+-   *A page of formula is allowed. Only formulas are allowed on the page. The page will be checked during the exam.*
+
+### Problem 1.
+
+Find $f'(x)$.
+
+$$f(x) =  \frac{2x^3}{3} + \frac{x^5}{7} - \frac{2}{\sqrt[3]{x}} + \frac{5}{6\sqrt{x}} + 2024$$
+
+\
+\
+\
+\
+
+$$f(x) = (\sqrt{x}+1)(x+1)$$
+
+\
+\
+\
+\
+\
+
+Simplify your answers. $$f(x) = \frac{x-1}{x+1}$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = x\sin x$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = \frac{x}{\tan x}$$
+\
+\
+\
+\
+\
+
+$$f(x) = \cos^{2024} x$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = \cos(3x^2+x+1)$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = \tan\bigg(\cos x + \sqrt{x}\bigg)$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = \bigg(\cos x+\sin x\bigg)^{2024}$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = 2024^x + 7^x - 2\log_{9}x + 3\ln x - \frac{3\log_2 x}{5} + \frac{\log_7 x}{3} + 2024$$
+
+\
+\
+\
+\
+\
+
+### Problem 2
+
+$$
+y + xy - 2x^3 = 1
+$$
+
+(a) Find $dy/dx$ or $y'$ by differentiating implicitly.
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+(b) Solve the equation for y as a function of x, and find $dy/dx$
+from that equation.
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+### Problem 3
+
+Given the equation 
+
+$$
+x^3 + y^3 = 3xy
+$$
+
+1. Use implicit differentiation to find $dy/dx$ or $y'$
+\
+\
+\
+\
+\
+
+2.  Find an equation for the tangent line at the point (3/2, 3/2)
+\
+\
+\
+\
+\
+
+
+
+### Problem 4
+
+(a) Find the local linear approximation of $f(x) = \sqrt{x}$ at $x_0 = 1$
+\
+\
+\
+\
+\
+
+
+
+(b) Use the local linear approximation obtained in part (a) to approximate $\sqrt{1.1}$
