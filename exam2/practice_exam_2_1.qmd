@@ -29,7 +29,7 @@ $$f(x) = (\sqrt{x}+1)(x+1)$$
 \
 \
 
-Simplify your answers. $$f(x) = \frac{x-1}{x+1}$$
+ $$f(x) = \frac{x-1}{x+1} \text{   (Simplify your answers.)}$$ 
 
 \
 \
