@@ -37,6 +37,9 @@ $$f(x) = \frac{x-1}{x+1} \text{   (Simplify your answers.)}$$
 \
 \
 
+\thispagestyle{empty}
+
+
 $$f(x) = x\sin x$$
 
 \
@@ -66,6 +69,9 @@ $$f(x) = \cos(3x^2+x+1)$$
 \
 \
 \
+
+\thispagestyle{empty}
+
 
 $$f(x) = \tan\bigg(\cos x + \sqrt{x}\bigg)$$
 
@@ -99,6 +105,9 @@ $$f(x) = \log_7\bigg(\sqrt{x}+x^2+x+1\bigg)$$
 \
 \
 \
+
+\thispagestyle{empty}
+
 
 $$f(x) = e^{\sin x + \tan x + 2x^3}$$
 
@@ -139,6 +148,9 @@ $$
 
 (b) Solve the equation for y as a function of x, and find $dy/dx$ from that equation.
 
+\thispagestyle{empty}
+
+
 \
 \
 \
@@ -159,23 +171,41 @@ x^3 + y^3 = 3xy
 $$
 
 1.  Use implicit differentiation to find $dy/dx$ or $y'$\
-    \
-    \
-    \
-    \
+\
+\
+\
+\
+\
+\
+\
+\
 
 2.  Find an equation for the tangent line at the point (3/2, 3/2)\
-    \
-    \
-    \
-    \
+\
+\
+\
+\
+\
+\
+\
+\
 
 ### Problem 4
 
 (a) Find the local linear approximation of $f(x) = \sqrt{x}$ at $x_0 = 1$\
-    \
-    \
-    \
-    \
+
+\thispagestyle{empty}
+
+\
+\
+\
+\
+\
+\
+\
+\
 
 (b) Use the local linear approximation obtained in part (a) to approximate $\sqrt{1.1}$
+
+\thispagestyle{empty}
+

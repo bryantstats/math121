@@ -36,6 +36,8 @@ $$f(x) = \frac{x^2+2}{x^2-2} \text{   (Simplify your answers.)}$$
 \
 \
 \
+\thispagestyle{empty}
+
 
 $$f(x) = 3x\tan x$$
 
@@ -66,6 +68,10 @@ $$f(x) = \tan^{2024}x$$
 \
 \
 \
+
+\thispagestyle{empty}
+
+
 
 $$f(x) = \tan\bigg(x \sin x\bigg)$$
 
@@ -99,6 +105,9 @@ $$f(x) = \ln\bigg(\sqrt[3]{x}+x^2+x+1\bigg)$$
 \
 \
 \
+
+\thispagestyle{empty}
+
 
 $$f(x) = 100^{\csc x - \tan x + 2x^3}$$
 
@@ -139,16 +148,11 @@ $$
 
 (b) Solve the equation for y as a function of x, and find $dy/dx$ from that equation.
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+\thispagestyle{empty}
+
+
+\thispagestyle{empty}
+
 
 ### Problem 3
 
@@ -163,19 +167,45 @@ $$
     \
     \
     \
-
+\
+\
+\
+\
+\
+\
+\
 2.  Find an equation for the tangent line at the point (1, 1)\
     \
     \
     \
     \
+\
+\
+\
+\
+\
+\
+\
 
 ### Problem 4
 
 (a) Find the local linear approximation of $f(x) = \sqrt[3]{x}$ at $x_0 = 1$\
-    \
-    \
-    \
-    \
 
+\thispagestyle{empty}
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 (b) Use the local linear approximation obtained in part (a) to approximate $\sqrt[3]{.9}$
+
+\thispagestyle{empty}
+
+
