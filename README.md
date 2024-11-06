@@ -33,7 +33,7 @@
 | 10/31         |   Section 2.7                      |   [Note](notes/10_31.pdf)       |
 | **Week 10**  |                                |    |                    |
 | 11/05         |   Section 2.7 & 2.8        |    |[HW5: Section 2.4 to 2.8](hw/hw.pdf)  |
-| 10/07         |   Review for Exam 2                       |  [Exam 2's Practice](exam2/practice_exam_2_1.pdf)       |
+| 10/07         |   Review for Exam 2                       |  [Practice 1](exam2/practice_exam_2_1.pdf) <br> [Practice 2](exam2/practice_exam_2_2.pdf)       |
 | **Week 11**  |                                |    |                    |
 | 11/12         |     Exam 2                   |  |
 | 11/14         |                      |          |
