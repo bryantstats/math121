@@ -1,0 +1,100 @@
+---
+title: "Exam 2 - Practice 2"
+format: pdf
+editor: visual
+---
+
+*Notice:*
+
+-   *Calculators are not allowed.*
+-   *Exam 2 is scheduled for Tuesday, Nov 12.*
+-   *A page of formula is allowed. Only formulas are allowed on the page. The page will be checked during the exam.*
+
+### Problem 1.
+
+Find $f'(x)$.
+
+$$f(x) =  -\frac{x}{3} + \frac{3x^4}{2} - \frac{1}{\sqrt[4]{x^3}} + \frac{5}{\sqrt{x}} + 2024x + 1$$
+
+$$f(x) = (\sqrt[3]{x}+1)(x^3+x+1)$$
+
+
+$$f(x) = \frac{x^2+2}{x^2-2} \text{   (Simplify your answers.)}$$
+
+
+\thispagestyle{empty}
+
+$$f(x) = 3x\tan x$$
+
+
+$$f(x) = \frac{x^2}{2\cos x}$$\
+
+$$f(x) = \cos \bigg(x + \sin x \bigg)$$
+
+
+$$f(x) = \tan^{2024}x$$
+
+
+\thispagestyle{empty}
+
+$$f(x) = \tan\bigg(x \sin x\bigg)$$
+
+
+$$f(x) = \bigg(3\tan x - 2\sin x\bigg)^{2024}$$
+
+
+$$f(x) = e^x +1007^x - 2\log_{4}x + 7\ln x - \frac{3\log_6 x}{5} + \frac{\log_2 x}{3} + 2024x + 1$$
+
+
+
+$$f(x) = \ln\bigg(\sqrt[3]{x}+x^2+x+1\bigg)$$
+
+
+
+\thispagestyle{empty}
+
+$$f(x) = 100^{\csc x - \tan x + 2x^3}$$
+
+
+
+$$f(x) = 3^{x^2\cos x}$$
+
+
+
+### Problem 2
+
+$$
+y + x^2y + 2x^3y + x^2 = 1
+$$
+
+(a) Find $dy/dx$ or $y'$ by differentiating implicitly.
+
+
+
+(b) Solve the equation for y as a function of x, and find $dy/dx$ from that equation.
+
+\thispagestyle{empty}
+
+\thispagestyle{empty}
+
+### Problem 3
+
+Given the equation
+
+$$
+x^3y + y^3x + 1 = 3xy
+$$
+
+1.  Use implicit differentiation to find $dy/dx$ or $y'$
+
+2.  Find an equation for the tangent line at the point (1, 1)
+
+### Problem 4
+
+(a) Find the local linear approximation of $f(x) = \sqrt[3]{x}$ at $x_0 = 1$\
+
+\thispagestyle{empty}
+
+(b) Use the local linear approximation obtained in part (a) to approximate $\sqrt[3]{.9}$
+
+\thispagestyle{empty}
