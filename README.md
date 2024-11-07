@@ -32,7 +32,7 @@
 | 10/29         |     Section 6.1 & 6.2                     | [Note](notes/10_29.pdf)  |
 | 10/31         |   Section 2.7                      |   [Note](notes/10_31.pdf)       |
 | **Week 10**  |                                |    |                    |
-| 11/05         |   Section 2.7 & 2.8        | [Note](notes/10_31.pdf)      |[HW5: Section 2.4 to 2.8](hw/hw.pdf)  |
+| 11/05         |   Section 2.7 & 2.8        | [Note](notes/11_5.pdf)      |[HW5: Section 2.4 to 2.8](hw/hw.pdf)  |
 | 10/07         |   Review for Exam 2                       |  [Practice 1](exam2/practice_exam_2_1.pdf), [Solution](exam2/practice_exam_2_1_sol.pdf) <br> [Practice 2](exam2/practice_exam_2_2.pdf)       |
 | **Week 11**  |                                |    |                    |
 | 11/12         |     Exam 2                   |  |
