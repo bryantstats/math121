@@ -36,7 +36,10 @@
 | 10/07         |   Review for Exam 2                       |  [Practice 1](exam2/practice_exam_2_1.pdf), [Solution](exam2/practice_exam_2_1_sol.pdf) <br> [Practice 2](exam2/practice_exam_2_2.pdf), [Solution](exam2/practice_exam_2_2_sol.pdf)       |
 | **Week 11**  |                                |    |                    |
 | 11/12         |     Exam 2                   |  |
-| 11/14         |                      |          |
+| 11/14         |     Section 3.1-3.2                 |  [Note](notes/11_14.pdf)        |
+| **Week 12**  |                                |    |                    |
+| 11/19         |                        |  |
+| 11/21         |                      |          |
 
  
 #### Homework
