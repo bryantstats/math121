@@ -47,7 +47,7 @@
 | 12/3         |                        |  |
 | 12/5         |                        |  |
 | **Week 15**  |                                |    |                    |
-| 12/10         |                        |  |
+| 12/10         |  Review for Final Exam                      |  |
 
 #### Homework
 
