@@ -38,10 +38,17 @@
 | 11/12         |     Exam 2                   |  |
 | 11/14         |     Section 3.1-3.2                 |  [Note](notes/11_14.pdf)        |
 | **Week 12**  |                                |    |                    |
-| 11/19         |                        | [Note](notes/11_14.pdf) |
-| 11/21         |                      |          |
+| 11/19         |                        | [Note](notes/11_19.pdf) |
+| 11/21         |                      |  [Note](notes/11_21.pdf)        |
+| **Week 13**  |                                |    |                    |
+| 11/26         |                        | [Exam 3's Practice](exam3/practice_exam_3_1.pdf), [Solution](exam3/practice_exam_3_1_solution.pdf)  |
+| 11/28         |                      |  No Class       |
+| **Week 14**  |                                |    |                    |
+| 12/3         |                        |  |
+| 12/5         |                        |  |
+| **Week 15**  |                                |    |                    |
+| 12/10         |                        |  |
 
- 
 #### Homework
 
 The homework problems can be found at the below link. 

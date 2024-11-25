@@ -1,0 +1,152 @@
+---
+title: "Exam 3 - Practice 1"
+format: pdf
+editor: visual
+---
+
+*Notice:*
+
+-   *This is a take home exam. Submit the screenshots of your answers and upload to Canvas by Dec 5*  
+
+### Problem 1.
+
+Given that 
+
+$$f(x) =  x^3 - 3x^2 + 1$$
+
+Find all the intervals where
+
+a. $f(x)$ is increasing
+b. $f(x)$ is decreasing
+c. $f(x)$ is concave upward
+d. $f(x)$ is concave downward
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\thispagestyle{empty}
+
+
+
+
+### Problem 2
+
+Find all the relative extrema of
+
+$$
+f(x) = x^4 - 12x^3
+$$
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\thispagestyle{empty}
+
+### Problem 3
+
+Find an relative extrema of $f(x) = x^4 - 3x^2 + x + 1$ using gradient descent. 
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\thispagestyle{empty}
+
+### Problem 4
+
+Find the absolute maximum and absolute minimum of $f(x) = x^3 - 6x^2 +9x +1$ on the interval [5, 7].
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\thispagestyle{empty}
+
+
+### Problem 5
+
+The given equation has one (real) solution. Approximate the solution by Newton's method. 
+
+$$x^3 - 2x -2 = 0$$
+
+\thispagestyle{empty}
