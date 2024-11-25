@@ -41,7 +41,7 @@
 | 11/19         |                        | [Note](notes/11_19.pdf) |
 | 11/21         |                      |  [Note](notes/11_21.pdf)        |
 | **Week 13**  |                                |    |                    |
-| 11/26         |                        | [Exam 3's Practice](exam3/practice_exam_3_1.pdf), [Solution](exam3/practice_exam_3_1_solution.pdf)  |
+| 11/26         |                        | [Exam 3's Practice](exam3/practice_exam_3_1.pdf), <br> [Solution](exam3/practice_exam_3_1_solution.pdf)  |
 | 11/28         |                      |  No Class       |
 | **Week 14**  |                                |    |                    |
 | 12/3         |                        |  |
