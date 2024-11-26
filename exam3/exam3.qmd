@@ -55,7 +55,7 @@ d. $f(x)$ is concave downward
 Find all the relative extrema of
 
 $$
-f(x) = x^4 - 4x^3 + 4x^2 + 1
+f(x) = 2x^3 -9x^2 + 12x + 1
 $$
 
 \
