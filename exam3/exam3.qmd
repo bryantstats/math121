@@ -150,3 +150,4 @@ The given equation has one (real) solution. Approximate the solution by Newton's
 $$x^3 + x - 1  = 0$$
 
 
+\thispagestyle{empty}
