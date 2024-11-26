@@ -6,7 +6,7 @@ editor: visual
 
 *Notice:*
 
--   *This is a take home exam. Submit the screenshots of your answers and upload to Canvas by Dec 5*  
+-   *This is a take home exam. Submit the screenshots/scans of your answers and upload to Canvas by Dec 5*  
 
 ### Problem 1.
 
