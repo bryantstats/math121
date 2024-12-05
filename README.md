@@ -44,8 +44,8 @@
 | 11/26         |                        | [Exam 3's Practice](exam3/practice_exam_3_1.pdf), <br> [Solution](exam3/practice_exam_3_1_solution.pdf), <br> [Exam 3](exam3/exam3.pdf)  |
 | 11/28         |                      |  No Class       |
 | **Week 14**  |                                |    |                    |
-| 12/3         |  Integration                      | [Note](notes/12_3.pdf)  |
-| 12/5         |                        |  |
+| 12/3         |  Indefinite Integral                      | [Note](notes/12_3.pdf)  |
+| 12/5         |  Definite Integral                      |  [Note](notes/12_5.pdf) |
 | **Week 15**  |                                |    |                    |
 | 12/10         |  Review for Final Exam                      |  |
 
