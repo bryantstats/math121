@@ -1,0 +1,491 @@
+---
+title: "Final Exam: Practice 2"
+format: pdf
+editor: visual
+---
+
+\thispagestyle{empty}
+
+
+*Name:*
+
+-   *Basic Calculators are allowed. Graphic calculators are not allowed.*
+-   *A page of formula is allowed. Only formulas are allowed on the page. The page will be checked during the exam.*
+
+
+
+---
+### Problem 1
+
+Use the definition of derivatives to find $f'(x)$, and then find the tangent line to the graph of $y = f(x)$ at $x = 1$
+
+$$
+f(x) = 2x^2 -3x +4
+$$
+
+\
+\
+\
+\
+
+\
+\
+\
+\
+
+\
+\
+\
+\
+
+\
+\
+\
+\
+
+
+
+
+### Problem 2
+
+Find $f'(x)$.
+
+$$f(x) =  \frac{2x^3}{3} + \frac{x^5}{7} - \frac{2}{\sqrt[3]{x}} + \frac{5}{6\sqrt{x}} + 2024$$
+
+\
+\
+\
+\
+
+$$f(x) = (\sqrt{x}+1)(x+1)$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = \frac{x-1}{x+1} \text{   (Simplify your answers.)}$$
+
+\
+\
+\
+\
+\
+
+\thispagestyle{empty}
+
+
+$$f(x) = x\sin x$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = \frac{x}{\tan x}$$\
+\
+\
+\
+\
+
+$$f(x) = \cos^{2024} x$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = \cos(3x^2+x+1)$$
+
+\
+\
+\
+\
+\
+
+\thispagestyle{empty}
+
+
+$$f(x) = \tan\bigg(\cos x + \sqrt{x}\bigg)$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = \bigg(\cos x+\sin x\bigg)^{2024}$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = 2024^x + 7^x - 2\log_{9}x + 3\ln x - \frac{3\log_2 x}{5} + \frac{\log_7 x}{3} + 2024$$
+
+\
+\
+\
+\
+\
+
+
+$$f(x) = \log_7\bigg(\sqrt{x}+x^2+x+1\bigg)$$
+
+\
+\
+\
+\
+\
+
+\thispagestyle{empty}
+
+
+$$f(x) = e^{\sin x + \tan x + 2x^3}$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = e^{x\sin x}$$
+
+\
+\
+\
+\
+\
+
+
+
+### Problem 3
+
+$$
+y + xy - 2x^3 = 1
+$$
+
+(a) Find $dy/dx$ or $y'$ by differentiating implicitly.
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+(b) Solve the equation for y as a function of x, and find $dy/dx$ from that equation.
+
+\thispagestyle{empty}
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+(c) Write an equation for the tangent line at the point (0, 1)\
+
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+### Problem 4
+
+(a) Find the local linear approximation of $f(x) = \sqrt{x}$ at $x_0 = 1$\
+
+\thispagestyle{empty}
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+(b) Use the local linear approximation obtained in part (a) to approximate $\sqrt{1.1}$
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+### Problem 5
+
+Given that 
+
+$$f(x) =  x^3 - 3x^2 + 1$$
+
+Find all the intervals where
+
+a. $f(x)$ is increasing
+b. $f(x)$ is decreasing
+c. $f(x)$ is concave upward
+d. $f(x)$ is concave downward
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\thispagestyle{empty}
+
+
+
+
+### Problem 6
+
+Find all the relative extrema of
+
+$$
+f(x) = x^4 - 12x^3
+$$
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\thispagestyle{empty}
+
+
+
+### Problem 7
+
+Find the absolute maximum and absolute minimum of $f(x) = x^3 - 6x^2 +9x +1$ on the interval [5, 7].
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\thispagestyle{empty}
+
+
+### Problem 8
+
+The given equation has one (real) solution. Approximate the solution by Newton's method. 
+
+$$x^3 - 2x -2 = 0$$
+
+\thispagestyle{empty}
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+
+
+
+
+### Problem 9
+
+Find the following 
+
+$$\int \bigg(x^7 - 2x^6 + 2x + 2024 \bigg) dx$$
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+$$\int \bigg( \sqrt x + x + \frac{1}{x}\bigg) dx$$
+\thispagestyle{empty}
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+\thispagestyle{empty}
+
+$$\int \bigg( 2^x + 2\sin x  - 3 \cos x + 1\bigg) dx$$
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+$$\int ( x  + 1)(x+2 ) dx$$
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+\thispagestyle{empty}
+
+### Problem 10
+
+Calculate the area between $f(x) = x^2 -4x + 3$ and x-axis bounded by $x = 0$ and $x = 2$
+
+\thispagestyle{empty}

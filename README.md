@@ -47,7 +47,7 @@
 | 12/3         |  Indefinite Integral                      | [Note](notes/12_3.pdf)  |
 | 12/5         |  Definite Integral                      |  [Note](notes/12_5.pdf) |
 | **Week 15**  |                                |    |                    |
-| 12/10         |  Review for Final Exam                      |  |
+| 12/10         |  Review for Final Exam                      | [Practice 1](final/final_practice1.pdf), [Solution](final/final_practice1_sol.pdf)  |
 
 #### Homework
 
