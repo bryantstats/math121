@@ -27,22 +27,14 @@ $$
 
 Find $f'(x)$.
 
-$$f(x) =  \frac{x^7}{3} - \frac{6x^5}{7} - \frac{1}{\sqrt{x}} + x + 2024$$
+$$f(x) =  \frac{x^8}{2} - \frac{4x^3}{7} - \frac{1}{\sqrt{x}} + \sqrt[3]{x} + 2024x + 1$$
 
 \
 \
 \
 \
 
-$$f(x) = (\sqrt[3]{x}+1)(x^2+1)$$
-
-\
-\
-\
-\
-\
-
-$$f(x) = \frac{3x-1}{3x+1} \text{   (Simplify your answers.)}$$
+$$f(x) = (\sqrt[4]{x}+1)(x+1)$$
 
 \
 \
@@ -50,32 +42,7 @@ $$f(x) = \frac{3x-1}{3x+1} \text{   (Simplify your answers.)}$$
 \
 \
 
-\thispagestyle{empty}
-
-
-$$f(x) = x^2\sin x$$
-
-\
-\
-\
-\
-\
-
-$$f(x) = \frac{x^2}{\cos x}$$\
-\
-\
-\
-\
-
-$$f(x) = \tan^{2024} x$$
-
-\
-\
-\
-\
-\
-
-$$f(x) = \sin(2x^4 + x)$$
+$$f(x) = \frac{3x+2}{3x-2} \text{   (Simplify your answers.)}$$
 
 \
 \
@@ -86,7 +53,7 @@ $$f(x) = \sin(2x^4 + x)$$
 \thispagestyle{empty}
 
 
-$$f(x) = \cos\bigg(\sin x + \cos x \bigg)$$
+$$f(x) = x^7\sin x$$
 
 \
 \
@@ -94,7 +61,13 @@ $$f(x) = \cos\bigg(\sin x + \cos x \bigg)$$
 \
 \
 
-$$f(x) = \bigg(\cos x+\sin x\bigg)^{2}$$
+$$f(x) = \frac{x}{3\cos x}$$\
+\
+\
+\
+\
+
+$$f(x) = \cos^{2024} x$$
 
 \
 \
@@ -102,16 +75,7 @@ $$f(x) = \bigg(\cos x+\sin x\bigg)^{2}$$
 \
 \
 
-$$f(x) = 2^x + 5^x - 2\log_{2}x + 5\ln x - \frac{3\log_2 x}{5} + \frac{\log_7 x}{3} + 1$$
-
-\
-\
-\
-\
-\
-
-
-$$f(x) = \ln\bigg(x^2+x+ \sin x\bigg)$$
+$$f(x) = \cos(2x^4 + x^2 + 1)$$
 
 \
 \
@@ -122,7 +86,7 @@ $$f(x) = \ln\bigg(x^2+x+ \sin x\bigg)$$
 \thispagestyle{empty}
 
 
-$$f(x) = 2^{\sin x + \cos x}$$
+$$f(x) = \cos\bigg(2\sin x + 3\cos x + x \bigg)$$
 
 \
 \
@@ -130,7 +94,43 @@ $$f(x) = 2^{\sin x + \cos x}$$
 \
 \
 
-$$f(x) = e^{x\tan x}$$
+$$f(x) = \bigg(\cos x - \sin x\bigg)^{100}$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = 4^x + 6^x - 7\log_{8}x + 9\ln x - \frac{3\log_2 x}{3} + \frac{\log_7 x}{2} + x + 1$$
+
+\
+\
+\
+\
+\
+
+
+$$f(x) = \ln\bigg(2x^2+3x+ \cos x\bigg)$$
+
+\
+\
+\
+\
+\
+
+\thispagestyle{empty}
+
+
+$$f(x) = 3^{\sin x + \cos x}$$
+
+\
+\
+\
+\
+\
+
+$$f(x) = 3^{x^2\cos x}$$
 
 \
 \
@@ -143,7 +143,7 @@ $$f(x) = e^{x\tan x}$$
 ### Problem 3
 
 $$
-y + x^2y - x^3 = 1
+y + x^4y + 3x^3 = 2
 $$
 
 (a) Find $dy/dx$ or $y'$ by differentiating implicitly.
@@ -183,14 +183,14 @@ $$
 \
 \
 
-(c) Write an equation for the tangent line at the point (0, 1)\
+(c) Write an equation for the tangent line at the point (0, 2)\
 
 
 {{< pagebreak >}}
 
 ### Problem 4
 
-(a) Find the local linear approximation of $f(x) = \ln$ at $x_0 = 1$\. Notice that $\ln1 = 0 $
+(a) Find the local linear approximation of $f(x) = e^x$ at $x_0 = 0$\. Notice that $e^0 = 1$
 
 \thispagestyle{empty}
 
@@ -206,7 +206,7 @@ $$
 \
 \
 
-(b) Use the local linear approximation obtained in part (a) to approximate $\ln{1.1}$
+(b) Use the local linear approximation obtained in part (a) to approximate $e^{.01}$
 
 {{< pagebreak >}}
 
@@ -215,7 +215,7 @@ $$
 
 Given that 
 
-$$f(x) =  x^3 - 6x^2 + 9x + 1$$
+$$f(x) =  x^3 + 6x^2 + 9x + 1$$
 
 Find all the intervals where
 
@@ -234,7 +234,7 @@ d. $f(x)$ is concave downward
 Find all the relative extrema of
 
 $$
-f(x) = 2x^3 - 9x^2 + 12x + 1
+f(x) = 2x^3 - 9x^2 + 12x + 2
 $$
 
 \
@@ -273,7 +273,7 @@ Find the absolute maximum and absolute minimum of $f(x) = x^3 + 6x^2 +9x +1$ on 
 
 The given equation has one (real) solution. Approximate the solution by Newton's method. 
 
-$$x^3 + 3x + 1 = 0$$
+$$x^3 + 5x + 2 = 0$$
 
 \thispagestyle{empty}
 
@@ -289,7 +289,7 @@ $$x^3 + 3x + 1 = 0$$
 
 Find the following 
 
-$$\int \bigg(2x^3 - x^2 + 2x + 2 \bigg) dx$$
+$$\int \bigg(2x^4 - x^3 + 2x + 1 \bigg) dx$$
 
 \
 \
@@ -302,7 +302,7 @@ $$\int \bigg(2x^3 - x^2 + 2x + 2 \bigg) dx$$
 \
 \
 
-$$\int \bigg( \sqrt[3] x + 2x + \frac{3}{x}\bigg) dx$$
+$$\int \bigg( \sqrt[5] x - 3x + \frac{2}{x}+ 1\bigg) dx$$
 \thispagestyle{empty}
 
 \
@@ -318,7 +318,7 @@ $$\int \bigg( \sqrt[3] x + 2x + \frac{3}{x}\bigg) dx$$
 
 \thispagestyle{empty}
 
-$$\int \bigg( e^x + \sin x  + 3 \cos x + 1\bigg) dx$$
+$$\int \bigg( 3^x + 2\sin x  - 3 \cos x + 3x + 1\bigg) dx$$
 
 \
 \
@@ -332,7 +332,7 @@ $$\int \bigg( e^x + \sin x  + 3 \cos x + 1\bigg) dx$$
 \
 
 
-$$\int ( x^2  + 1)(x^2+2 ) dx$$
+$$\int ( x^2  +x +1 )(x^2+2 ) dx$$
 
 \
 \
@@ -347,6 +347,6 @@ $$\int ( x^2  + 1)(x^2+2 ) dx$$
 
 ### Problem 10
 
-Calculate the area between $f(x) = x^2 -5x + 6$ and x-axis bounded by $x = 2$ and $x = 5$
+Calculate the area between $f(x) = x^2 -7x + 6$ and x-axis bounded by $x = 1$ and $x = 10$
 
 \thispagestyle{empty}

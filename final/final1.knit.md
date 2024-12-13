@@ -54,6 +54,7 @@ $$f(x) = \frac{3x-1}{3x+1} \text{   (Simplify your answers.)}$$
 
 \thispagestyle{empty}
 
+<!--
 
 $$f(x) = x^2\sin x$$
 
@@ -63,11 +64,18 @@ $$f(x) = x^2\sin x$$
 \
 \
 
+
+
+
+
+
 $$f(x) = \frac{x^2}{\cos x}$$\
 \
 \
 \
 \
+
+-->
 
 $$f(x) = \tan^{2024} x$$
 
@@ -77,13 +85,7 @@ $$f(x) = \tan^{2024} x$$
 \
 \
 
-$$f(x) = \sin(2x^4 + x)$$
 
-\
-\
-\
-\
-\
 
 \thispagestyle{empty}
 
@@ -96,13 +98,6 @@ $$f(x) = \cos\bigg(\sin x + \cos x \bigg)$$
 \
 \
 
-$$f(x) = \bigg(\cos x+\sin x\bigg)^{2}$$
-
-\
-\
-\
-\
-\
 
 $$f(x) = 2^x + 5^x - 2\log_{2}x + 5\ln x - \frac{3\log_2 x}{5} + \frac{\log_7 x}{3} + 1$$
 
@@ -113,7 +108,7 @@ $$f(x) = 2^x + 5^x - 2\log_{2}x + 5\ln x - \frac{3\log_2 x}{5} + \frac{\log_7 x}
 \
 
 
-$$f(x) = \ln\bigg(x^2+x+ \sin x\bigg)$$
+$$f(x) = \ln \bigg(x^2+x+ \sin x\bigg)$$
 
 \
 \
@@ -123,14 +118,6 @@ $$f(x) = \ln\bigg(x^2+x+ \sin x\bigg)$$
 
 \thispagestyle{empty}
 
-
-$$f(x) = 2^{\sin x + \cos x}$$
-
-\
-\
-\
-\
-\
 
 $$f(x) = e^{x\tan x}$$
 
@@ -192,7 +179,7 @@ $$
 
 ### Problem 4
 
-(a) Find the local linear approximation of $f(x) = \ln$ at $x_0 = 1$\. Notice that $\ln1 = 0 $
+(a) Find the local linear approximation of $f(x) = \ln x$ at $x_0 = 1$. Notice that $\ln1 = 0$
 
 \thispagestyle{empty}
 
@@ -208,7 +195,7 @@ $$
 \
 \
 
-(b) Use the local linear approximation obtained in part (a) to approximate $\ln{1.1}$
+(b) Use the local linear approximation obtained in part (a) to approximate $\ln 1.1$
 
 {{< pagebreak >}}
 
@@ -231,7 +218,9 @@ d. $f(x)$ is concave downward
 {{< pagebreak >}}
 
 
-### Problem 6
+<!--
+
+### Problem
 
 Find all the relative extrema of
 
@@ -261,9 +250,9 @@ $$
 \
 \thispagestyle{empty}
 
+-->
 
-
-### Problem 7
+### Problem 6
 
 Find the absolute maximum and absolute minimum of $f(x) = x^3 + 6x^2 +9x +1$ on the interval [-4, 4].
 
@@ -271,7 +260,7 @@ Find the absolute maximum and absolute minimum of $f(x) = x^3 + 6x^2 +9x +1$ on 
 \thispagestyle{empty}
 {{< pagebreak >}}
 
-### Problem 8
+### Problem 7
 
 The given equation has one (real) solution. Approximate the solution by Newton's method. 
 
@@ -287,7 +276,7 @@ $$x^3 + 3x + 1 = 0$$
 {{< pagebreak >}}
 
 
-### Problem 9
+### Problem 8
 
 Find the following 
 
@@ -322,32 +311,11 @@ $$\int \bigg( \sqrt[3] x + 2x + \frac{3}{x}\bigg) dx$$
 
 $$\int \bigg( e^x + \sin x  + 3 \cos x + 1\bigg) dx$$
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-
-
-$$\int ( x^2  + 1)(x^2+2 ) dx$$
-
-\
-\
-\
-\
-\
-\
-\
-\
+{{< pagebreak >}}
 
 \thispagestyle{empty}
 
-### Problem 10
+### Problem 9
 
 Calculate the area between $f(x) = x^2 -5x + 6$ and x-axis bounded by $x = 2$ and $x = 5$
 
