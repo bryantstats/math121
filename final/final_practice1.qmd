@@ -329,7 +329,7 @@ $$
 
 ### Problem 7
 
-Find the absolute maximum and absolute minimum of $f(x) = x^3 - 6x^2 +9x +1$ on the interval [5, 7].
+Find the absolute maximum and absolute minimum of $f(x) = x^3 - 6x^2 +9x +1$ on the interval [-5, 7].
 
 \
 \
