@@ -1,5 +1,5 @@
 ---
-title: "Final Exam: Practice 2"
+title: "Final Exam: Practice 1"
 format: pdf
 editor: visual
 ---
